@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--Menu Containing Add and Help-->
+    <item
+        android:id="@+id/add_new_item"
+        android:title="Add Details"></item>
+    <item
+        android:id="@+id/help_item"
+        android:title="Help"></item>
+</menu>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.thagadur.androidsession12assignment4.MainActivity">
+<!--List View for displaying the details that we will add through dialog box -->
+    <ListView
+        android:layout_width="368dp"
+        android:layout_height="495dp"
+        android:id="@+id/main_list"></ListView>
+
+</android.support.constraint.ConstraintLayout>
